@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoManageFragmentInBackStack</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_1">Load Fragment 1</string>
+    <string name="button_2">Load Fragment 2</string>
+    <string name="button_3">Load Fragment 3</string>
+    <string name="fragment_1">Content Fragment 1</string>
+    <string name="fragment_2">Content Fragment 2</string>
+    <string name="fragment_3">Content Fragment 3</string>
+    <string name="load_1">Manage Fragment Without BackStack</string>
+    <string name="load_2">Manage Fragment With BackStack</string>
+
+</resources>
